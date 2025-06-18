@@ -45,6 +45,7 @@ and transformed into background images by arelive.
 - Reimu Hakurei *(2)*
 - Reisen Udongein Inaba *(1)*
 - Remilia Scarlet *(2)*
+- Rin Kaenbyou *(1)*
 - Rumia *(2)*
 - Sakuya Izayoi *(1)*
 - Sanae Kochiya *(2)*
