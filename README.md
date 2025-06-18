@@ -19,20 +19,20 @@ and transformed into background images by arelive.
 - Daiyousei *(2)*
 - Eirin Yagokoro *(1)*
 - Flandre Scarlet *(4)*
-- Fujiwara no Moko *(1)*
+- Fujiwara no Mokou *(1)*
 - Hatate Himekaidou *(1)*
 - Hina Kagiyama *(2)*
 - Hong Meiling *(1)*
 - Iku Nagae *(1)*
 - Kaguya Houraisan *(1)*
 - Kanako Yasaka *(1)*
-- Keine Kamishirasa *(1)*
+- Keine Kamishirasawa *(1)*
 - Kogasa Tatara *(1)*
 - Koishi Komeiji *(1)*
 - Komachi Onozuka *(1)*
 - Letty Whiterock *(1)*
 - Marisa Kirisame *(3)*
-- Medicine Malancholy *(1)*
+- Medicine Melancholy *(1)*
 - Lunasa Prismriver *(1)*
 - Lyrica Prismriver *(1)*
 - Merlin Prismriver *(1)*
