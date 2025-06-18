@@ -25,9 +25,9 @@ and transformed into background images by arelive.
 - Hong Meiling *(1)*
 - Iku Nagae *(1)*
 - Kaguya Houraisan *(1)*
-- Kanako Yasaka *(1)*
+- Kanako Yasaka *(2)*
 - Keine Kamishirasawa *(1)*
-- Kogasa Tatara *(1)*
+- Kogasa Tatara *(2)*
 - Koishi Komeiji *(1)*
 - Komachi Onozuka *(1)*
 - Letty Whiterock *(1)*
@@ -36,6 +36,7 @@ and transformed into background images by arelive.
 - Lunasa Prismriver *(1)*
 - Lyrica Prismriver *(1)*
 - Merlin Prismriver *(1)*
+- Minoriko Aki *(1)*
 - Momiji Inubashiri *(2)*
 - Mystia Lorelei *(1)*
 - Nitori Kawashiro *(1)*
@@ -44,7 +45,13 @@ and transformed into background images by arelive.
 - Reimu Hakurei *(2)*
 - Remilia Scarlet *(2)*
 - Rumia *(2)*
+- Sakuya Izayoi *(1)*
+- Sanae Kochiya *(2)*
+- Satori Komeiji *(1)*
+- Shion Yorigami *(1)*
+- Shizuha Aki *(1)*
 - Suika Ibuki *(2)*
+- Suwako Moriya *(1)*
 - Tenshi Hinanawi *(1)*
 - Tewi Inaba *(1)*
 - Reisen Udongein Inaba *(1)*
