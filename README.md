@@ -12,9 +12,10 @@ and transformed into background images by arelive.
 ## List of available characters featured in the images
 
 - Alice Margatroid *(3)*
-- Shanghai *(2)*
-- Hourai *(2)*
+  - Hourai *(2)*
+  - Shanghai *(2)*
 - Aya Shameimaru *(2)*
+- Chen *(1)*
 - Cirno *(3)*
 - Daiyousei *(2)*
 - Eirin Yagokoro *(1)*
@@ -31,18 +32,18 @@ and transformed into background images by arelive.
 - Koishi Komeiji *(1)*
 - Komachi Onozuka *(1)*
 - Letty Whiterock *(1)*
-- Marisa Kirisame *(3)*
-- Medicine Melancholy *(1)*
 - Lunasa Prismriver *(1)*
 - Lyrica Prismriver *(1)*
+- Marisa Kirisame *(3)*
+- Medicine Melancholy *(1)*
 - Merlin Prismriver *(1)*
 - Minoriko Aki *(1)*
 - Momiji Inubashiri *(2)*
 - Mystia Lorelei *(1)*
 - Nitori Kawashiro *(1)*
 - Ran Yakumo *(1)*
-- Chen *(1)*
 - Reimu Hakurei *(2)*
+- Reisen Udongein Inaba *(1)*
 - Remilia Scarlet *(2)*
 - Rumia *(2)*
 - Sakuya Izayoi *(1)*
@@ -54,7 +55,6 @@ and transformed into background images by arelive.
 - Suwako Moriya *(1)*
 - Tenshi Hinanawi *(1)*
 - Tewi Inaba *(1)*
-- Reisen Udongein Inaba *(1)*
 - Utsuho Reiuji *(2)*
 - Wriggle Nightbug *(2)*
 - Yamaxanadu Eiki Shiki *(2)*
